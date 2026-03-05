@@ -1,7 +1,7 @@
 ## 大家好!
-⚡喜歡各式各樣的遊戲
-🌱目前就讀長榮大學
-📫 How to reach me: email:114b05785@gmailst.cjcu.edu.tw
+- ⚡喜歡各式各樣的遊戲
+- 🌱目前就讀長榮大學
+- 📫 How to reach me: email:114b05785@gmailst.cjcu.edu.tw
 
 <!--
 **114b05785-sketch/114b05785-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
